@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/misango/code/Hacking_Scripts/PicoCTF'
+make: Leaving directory '/home/misango/code/Hacking_Scripts/PicoCTF'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
